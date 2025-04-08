@@ -1,2 +1,2 @@
 # radinpayamak-core
-radin Payamak API Client Writen In C#
+A cross-platform library for the radin Payamak API ; written in C#
